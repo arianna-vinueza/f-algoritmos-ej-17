@@ -1,0 +1,143 @@
+ 1  cd Documents
+    2  ls
+    3  cd Este\ equipo\ -\ Acceso\ directo.lnk
+    4  ls
+    5  cd Documentos
+    6  git config --global user.name "Arianna Vinueza"
+    7  git clone https://git.taw.utpl.edu.ec/amvinueza2/programacion_algoritmos.git
+    8  cdÑ
+    9  cd: C:\
+   10  de Documentos
+   11  cd DE
+   12  cd
+   13  Documentos
+   14  cd C:/Users/JC/Documents/proyecto_git
+   15  git clone https://git.taw.utpl.edu.ec/amvinueza2/programacion_algoritmos.git
+   16  git clone https://git.taw.utpl.edu.ec/amvinueza2/programacion_algoritmos.git
+   17  git clone https://git.taw.utpl.edu.ec/amvinueza2/programacion_algoritmos.git
+   18  git clone https://git.taw.utpl.edu.ec/amvinueza2/programacion_algoritmos.git
+   19  git clone https://git.taw.utpl.edu.ec/amvinueza2/programacion_algoritmos.git
+   20  cd Desktop/
+   21  users
+   22  cd Rep1
+   23  cd Desktop/
+   24  cd user
+   25  ls
+   26  cd Desktop/ https://git.taw.utpl.edu.ec/amvinueza2/repaso1.git
+   27  git config --global user.name "Arianna Vinueza"
+   28  git config --global user.email "amvinueza2@utpl.edu.ec"
+   29  cd C:\Users\JC\Desktop\ProgrAlg
+   30  ls
+   31  cd Desktop/
+   32  cd ProgrAlg
+   33  cd ls
+   34  cd https://git.taw.utpl.edu.ec/amvinueza2/repaso1.git
+   35  git config --global user.name "Arianna Vinueza"
+   36  git config --global user.email "amvinueza2@utpl.edu.ec"
+   37  git clone https://git.taw.utpl.edu.ec/amvinueza2/repaso1.git
+   38  touch README.md
+   39  git add README.md
+   40  ls
+   41  cd https://git.taw.utpl.edu.ec/ProgramAlg_UTPL/27amvinueza2_ProgAlgOF17_git.git
+   42  $ git config --global user.name "John Doe"
+   43  $ git config --global user.name "John Doe"
+   44  git config --global user.name "Arianna Vinuez"
+   45  git config --global user.email "amvinueza2@utpl.edu.ec"
+   46  cd C:/UsersJC/Desktop/Repositorio
+   47  cd C:/UsersJC/Desktop/Repositorio
+   48  cd c:/UsersJC/Desktop/Repositorio
+   49  cd C:/Users/JC/Desktop/Repositorio
+   50  git clone https://git.taw.utpl.edu.ec/ProgramAlg_UTPL/27amvinueza2_ProgAlgOF17_git.git
+   51  cd 27amvinueza2_ProgAlgOF17_git/
+   52  git add Tareas/
+   53  git commit -m "Agregar carpeta de tareas"
+   54  git push
+   55  git push
+   56  git commit -m -a "Agregar carpeta de tareas"
+   57  git commit -m "Agregar carpeta de tareas"
+   58  cd Tareas/
+   59  git add Fecha/
+   60  git commit -m "Agregar ejercicio 1"
+   61  git push
+   62  git add PerfilMedico/
+   63  git commit -m "Agregar ejercicio 2"
+   64  git push
+   65  git add JuegoGato/
+   66  git commit -m "Agregar ejercicio 3"
+   67  git push
+   68  git push
+   69  git status
+   70  ls
+   71  git add PerfilMedico/
+   72  git push
+   73  git config --global user.name "Arianna Vinueza"
+   74  git config --global user.email amvinueza2@utpl.edu.ec
+   75  cd Desktop/
+   76  cd Repositorio/
+   77  git status
+   78  cd 27amvinueza2_ProgAlgOF17_git/
+   79  ls
+   80  git pull
+   81  git add .
+   82  git commit -m "Tarea Figuras"
+   83  git push
+   84  cd Desktop/
+   85  cd Repositorio/
+   86  cd 27amvinueza2_ProgAlgOF17_git/
+   87  git pull
+   88  git add .
+   89  git commit -m "Taller2"
+   90  git push
+   91  cd: Desktop/
+   92  cd Desktop/
+   93  cd Repositorio/
+   94  cd 27amvinueza2_ProgAlgOF17_git/
+   95  cd Estudiantes.java
+   96  https://git.taw.utpl.edu.ec/ProgramAlg_UTPL/27amvinueza2_ProgAlgOF17_git.git
+   97  git add .
+   98  git status
+   99  git push
+  100  git commit -m "Estudiante tarea1 "
+  101  git pull
+  102  git push
+  103  git push
+  104  git add .
+  105  git push
+  106  git add .
+  107  git commit -m "Estudiantes tarea 2 bim"
+  108  git push
+  109  cd Estudiantes.java
+  110  git add .
+  111  git commit -m "Estudiantes tarea 2bim"
+  112  git push
+  113  cd Desktop/
+  114  cd Repositorio/
+  115  cd 27amvinueza2_ProgAlgOF17_git/
+  116  cd Estudiantes.java
+  117  https://git.taw.utpl.edu.ec/ProgramAlg_UTPL/27amvinueza2_ProgAlgOF17_git.git
+  118  git add .
+  119  git commit -m "Tarea 2bim Estudiantes"
+  120  git push
+  121  echo "# f-algoritmos-ej-17" >> README.md
+  122  echo "# f-algoritmos-ej-17" >> README.md
+  123  git init
+  124  git add README.md
+  125  git commit -m "First Commit"
+  126  git remote add origin  https://github.com/arianna-vinueza/f-algoritmos-ej-17.git
+  127  git push
+  128  git push -u
+  129  git push -u origin master
+  130  git status
+  131  git add "principal.txt"
+  132  git commit -m -a "Ciclo Repetitivo"
+  133  git commit -m -a"ciclo repetitivo"
+  134  git push
+  135  git status
+  136  git status
+  137  git commit -m -m"modificacion"
+  138  git push
+  139  git commit -m -a"modificacion"
+  140  git push
+  141  git commit -a -m"modificacion"
+  142  git push
+  143  history
